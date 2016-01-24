@@ -25,6 +25,24 @@ EasyUI Windows8 Style Themes
 <script type="text/javascript" src="easyui-1.4.4/locale/easyui-lang-zh_CN.js"></script>
 ```
 
+图示
+----------------------
+**window**  
+![windows样式](http://dunizb.b0.upaiyun.com/p/eui-solid-blue/window.PNG "windows样式")  
+
+**Tabs**  
+![Tabs样式](http://dunizb.b0.upaiyun.com/p/eui-solid-blue/tabs.PNG "Tabs样式")
+
+**panel**  
+![panel样式](http://dunizb.b0.upaiyun.com/p/eui-solid-blue/panel.PNG "panel样式")
+
+**dialog**  
+![dialog样式](http://dunizb.b0.upaiyun.com/p/eui-solid-blue/dialog.PNG "dialog对话框样式")
+
+**确认**  
+![确认样式](http://dunizb.b0.upaiyun.com/p/eui-solid-blue/确认.PNG  "确认对话框样式")
+
+
 更新记录
 ----------------------
 **2015-12-27**  
