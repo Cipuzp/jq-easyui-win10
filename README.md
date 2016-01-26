@@ -13,13 +13,13 @@ EasyUI Windows8 Style Themes
 温馨提示:只需要替换核心的easyui.css文件即可  
 
 **CSS**  
-```
+```html
 <link rel="stylesheet" type="text/css" href="easyui-1.4.4/themes/metro-blue/easyui.css">
 <link rel="stylesheet" type="text/css" href="easyui-1.4.4/themes/icon.css">
 ```
 
 **JS**  
-```
+```html
 <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
 <script type="text/javascript" src="easyui-1.4.4/jquery.easyui.min.js"></script>
 <script type="text/javascript" src="easyui-1.4.4/locale/easyui-lang-zh_CN.js"></script>
